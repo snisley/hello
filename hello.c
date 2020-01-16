@@ -11,5 +11,9 @@ printf("Computer Science");
 printf("Osama Al Sabahi\n");
 
 printf("Electrical Engineering");
+printf("Osama Al Sabahi\n");
+
+printf("Electrical Engineering")
+     
 
 return 0;}
