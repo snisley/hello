@@ -1,9 +1,11 @@
+
+
 #include <stdio.h>
 
-int main ()
+int {main(void) 
 
-#include <stdio.h>int main(void) 
+printf("Shane Nisley\n");
 
-{printf("Shane Nisley\n");
+printf("Computer Science");
 
 return 0;}
